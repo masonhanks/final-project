@@ -1,0 +1,62 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAyMDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzAzMDgwZjA5MDkwOTA5MDkwZDA5MDkwOTA5MDkwOTA5MDUwODA5MGQwOTA5MDkwOTA5MDkwOTA5MDkwOTBkMDkwNTA4MDkwOTA5MDkwZDA5MDkwOTBkMDkwOTA5MDkwOTA1MDgwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDUwODA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNTA4MDkwZDA5MDkwOTA5MDkwOTA5MDkwOTBkMDkwOTA1MDgwOTA5MDkwOTBkMDkwNjA2MDYwNjA2MDkwOTA5MDUwODA5MDkwOTA5MDkwNTBjMGIwZTBjMGMwMTA5MDkwNTA4MDkwOTA2MDYwNjA0MGMwYzBlMGIwYTBjMDgwOTA1MDgwOTA1MGEwYjBjMGIwYzBhMGUwYzBjMGMwODA5MDUwODA5MDUwYzBjMGYwZTBlMGUwZTBjMGMwYjA4MDkwNTA4MDkwNTBhMGMwYjBjMGMwYjBlMGEwYzBjMDgwOTA1MDgwOTA5MDcwNzA3MDMwYzBjMGUwYzBiMDIwOTBkMGYwODBmMGQwOTA5MDkwOTA3MDcwNzA3MDcwOTA5MDkwNTAxMDYwNjA2MDYwNjA2MDYwNjA2MDYwNjA2MDYwNjA0MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDIwMDAwMDAwMDAwMDAyMDAwMDAwMDAyMDAwMDAwMDIwMDAyMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMjAwMDAwMDAwMDIwMDAwMDAyMDAwMDAwMDAwMDAwMDAwMDAyMDAyMjIwMDAwMDAwMDAwMjAwMjIyMDIwMDAwMjAyMjIyMDIyMjAyMDAwMDIwMDIwMDAwMjIwMjAwMDAyMDIyMjIwMjIyMDIwMDAwMDAwMDIwMDIyMjAwMDIwMDAyMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tilePath7",
+            "sprites.castle.tilePath1",
+            "sprites.castle.tilePath3",
+            "sprites.castle.tilePath9",
+            "sprites.castle.tilePath6",
+            "sprites.castle.tilePath8",
+            "sprites.castle.tilePath2",
+            "sprites.castle.tilePath4",
+            "sprites.castle.tilePath5",
+            "sprites.castle.tileDarkGrass1",
+            "sprites.castle.tileDarkGrass2",
+            "sprites.castle.tileDarkGrass3",
+            "sprites.builtin.forestTiles0",
+            "sprites.dungeon.stairLadder",
+            "sprites.dungeon.chestClosed"
+        ],
+        "displayName": "level1"
+    },
+    "level2": {
+        "id": "level2",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAwZDAwMGQwMDA0MDEwNTAxMDUwMTA1MDEwNTAxMDUwMTBjMDIwNjA4MDYwYTA2MDYwNjA5MDYwNjA3MTAwMzA2MDgwNzA2MDkwNzA2MGEwNzA5MDYwZDAyMDYwNjBhMDgwNjA2MDYwODA2MGEwNzEwMDMwNjA3MDYwNjA2MDcwNjA3MDYwOTA2MGQwMjBhMDgwNjA3MDYwODBhMDYwOTA2MDgxMDAzMDYwOTBhMDgwYTA2MDgwOTA4MDYwNzBkMDIwNjA4MDcwNjA4MDYwNzA2MGEwNjBhMTAwMzBhMDYwOTA2MDkwNjBhMDYwNjA5MDgwZDAyMDkwNjA3MDYwODA2MDYwOTA4MDYwNzEwMDMwNjA4MDYwODBhMDYwNzBhMDYwYTExMGQwMjBhMDgwNzA4MDYwYTA3MTEwODA2MTExMDBiMGUwZTBlMGUwZTBlMGUwZTBlMGUwZTBmMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA=",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.purpleOuterNorth2",
+            "sprites.dungeon.purpleOuterWest2",
+            "sprites.dungeon.purpleOuterWest1",
+            "sprites.dungeon.purpleOuterNorthWest",
+            "sprites.dungeon.purpleOuterNorth1",
+            "sprites.dungeon.floorDarkDiamond",
+            "sprites.dungeon.floorDark0",
+            "sprites.dungeon.floorDark1",
+            "sprites.dungeon.floorDark2",
+            "sprites.dungeon.floorDark3",
+            "sprites.dungeon.purpleOuterSouthEast",
+            "sprites.dungeon.purpleOuterNorthEast",
+            "sprites.dungeon.purpleOuterEast0",
+            "sprites.dungeon.purpleOuterSouth1",
+            "sprites.dungeon.purpleOuterSouthWest",
+            "sprites.dungeon.purpleOuterEast2",
+            "sprites.dungeon.floorDark4"
+        ],
+        "displayName": "level2"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
